@@ -1,0 +1,29 @@
+# Unity : dossiers recréés automatiquement, à ne jamais sauvegarder
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Fichiers des éditeurs de code
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pdb
+*.VC.db
+
+# Sauvegardes automatiques de Blender
+*.blend1
+*.blend2
+
+# Fichiers système de Windows
+Thumbs.db
+desktop.ini
